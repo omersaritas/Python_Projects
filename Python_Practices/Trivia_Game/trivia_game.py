@@ -6,7 +6,7 @@ print(f"This amount of question(s) will be asked --> {num}" )
 questions = {
     "What is the shortname for python?" : "py",
     "What is the shortname for defination" : "def",
-    "How much ring(s) Michael Jordan do have?" : "6",
+    "How many ring(s) Michael Jordan do have?" : "6",
     "What is the shortname for python?" : "py",
     "How much ring(s) Michael Jordan do have?" : "6",
     "1" : "2",
@@ -17,7 +17,7 @@ questions = {
 }
 
 allrandom = {
-    "How much ring(s) Michael Jordan do have?" : "6",
+    "How many ring(s) Michael Jordan do have?" : "6",
     "What is the shortname for python?" : "py",
     
 }
